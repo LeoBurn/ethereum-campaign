@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "fs-extra": "^11.1.0",
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.2.0",
+    "solc": "^0.4.17",
+    "web3": "^1.8.1"
+  },
+  "name": "ethereum-campaign",
+  "description": "Project that provide a service like kickstarter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoBurn/ethereum-campaign.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeoBurn/ethereum-campaign/issues"
+  },
+  "homepage": "https://github.com/LeoBurn/ethereum-campaign#readme"
+}

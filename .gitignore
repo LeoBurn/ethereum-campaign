@@ -8,3 +8,4 @@ tmp
 coveragegit
 package-lock.json
 .env
+.\build
