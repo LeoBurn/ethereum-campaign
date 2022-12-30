@@ -7,7 +7,6 @@ tmp
 .nyc_output
 coveragegit
 .env
-ethereum/build
 
 # Logs
 logs
