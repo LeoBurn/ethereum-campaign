@@ -6,7 +6,6 @@ out
 tmp
 .nyc_output
 coveragegit
-package-lock.json
 .env
 ethereum/build
 
