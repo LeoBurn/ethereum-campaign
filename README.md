@@ -1,4 +1,5 @@
-# ethereum-campaign
+# ![Ethereum](https://s2.coinmarketcap.com/static/img/coins/32x32/1027.png) Ethereum Crowd Campaign 
+</br>
 Project that provide a service like kickstarter
 
 
@@ -6,4 +7,3 @@ Project that provide a service like kickstarter
 
 Contracts:
  * Campaign.sol
- * CampaignFactory.sol
