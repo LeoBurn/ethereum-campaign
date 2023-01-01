@@ -1,4 +1,5 @@
 # ![Ethereum](https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png) Ethereum Crowd Campaign 
+![Build](https://github.com/LeoBurn/ethereum-campaign/actions/workflows/node.js.yml/badge.svg) 
 </br>
 Project that provide a service like kickstarter, and anyone can contribute through ethereum blockchain.
 This project it's a exercice from udemy course  <a href="https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/">Ethereum and Solidity Course</a> with some customizations.
