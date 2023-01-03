@@ -2,7 +2,7 @@
 ![Build](https://github.com/LeoBurn/ethereum-campaign/actions/workflows/node.js.yml/badge.svg) 
 </br>
 Project that provide a service like kickstarter, and anyone can contribute through ethereum blockchain.
-This project it's a exercice from udemy course  <a href="https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/">Ethereum and Solidity Course</a> with some customizations.
+This project is an exercice from udemy course  <a href="https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/">Ethereum and Solidity Course</a> with some customizations.
 
 <h2>Frameworks</h2>
 
@@ -35,7 +35,7 @@ INFURA_URL ='<INFURA_URL>'
 SEED_PHRASE ='<SEED_PHRASE >'
 FACTORY_ADDRESS = '<FACTORY_ADDRESS>'
 ```
-2. npm install --legacy-peer-deps ( have some old packages and dependicies )
+2. npm install --legacy-peer-deps ( have some old packages and dependencies )
 3. node ./ethereum/build.js ( to build json files with abi from contracts )
 4. node ./ethereum/deploy.js ( to deploy de CampaignFactory to network specified with infura url )
 5. Setup FACTORY_ADDRESS env var with result from previous step
